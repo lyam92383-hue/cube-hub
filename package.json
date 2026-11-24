@@ -1,0 +1,7 @@
+{
+  "name": "cube-hub-windows",
+  "productName": "Cube Hub",
+  "version": "1.2.0",
+  "main": "src/main.js",
+  "license": "MIT"
+}
